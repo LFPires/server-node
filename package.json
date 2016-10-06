@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "makin a server a stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LFPires/server-node.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LFPires/server-node/issues"
+  },
+  "homepage": "https://github.com/LFPires/server-node#readme"
+}
