@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/LFPires/server-node/issues"
   },
-  "homepage": "https://github.com/LFPires/server-node#readme"
+  "homepage": "https://github.com/LFPires/server-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
